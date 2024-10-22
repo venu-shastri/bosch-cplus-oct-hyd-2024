@@ -1,8 +1,9 @@
-Concept - Parametric Polymoprphism
+/*Concept - Parametric Polymoprphism
 				DataType Parameterization
 				TypePaarameter - > variables -> DataType Placeholder
 
 C++ building Block - Template
+*/
 
 
 #include <iostream>
