@@ -80,7 +80,7 @@ int main() {
 
     // Getting elements
     for (int i = 0; i < arr.getSize(); i++) {
-        std::cout << "Element at index " << i << ": " << arr.get(i) << std::endl;
+        std::cout << "Element at index " << i << ": " << arr[i] << std::endl;
     }
 
     // Removing an element
